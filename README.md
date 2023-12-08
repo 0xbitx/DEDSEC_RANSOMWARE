@@ -12,12 +12,12 @@ DedSec Ransomware automatically sends the victim's unique decryption key, along 
 
 <h3 align="center"> RANSOMWARE MESSAGE</h3>
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/main/ransom.png", width="900", height="900">
+<img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/master/ransom.png", width="900", height="900">
 </p>
 
 <h3 align="center"> DISCORD INFO</h3>
 <p align="center">
-<img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/main/info.png", width="500", height="500">
+<img src="https://github.com/0xbitx/DEDSEC_RANSOMWARE/blob/master/info.png", width="500", height="500">
 </p>
 
 ## INSTALLATION 
