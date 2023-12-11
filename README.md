@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media0.giphy.com/media/l0IynvAIYxm8ZGUrm/giphy.gif?cid=ecf05e47qvbyv5iod2z91r9bufnpkvsjn1xm18a63b0g8z9a&ep=v1_gifs_related&rid=giphy.gif&ct=g", width="400", height="400">
+<img src="https://cdn-icons-png.flaticon.com/512/6307/6307172.png", width="400", height="400">
 </p>
 <h1 align="center"> DEDSEC_RANSOMWARE</h1>
 <h4 align="center">DEDSEC_RANSOMWARE is linux based ransomware tool that can create a ransomware code with discord integration.</h4>
